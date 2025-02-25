@@ -1,6 +1,3 @@
 rootProject.name = 'eda-microservices'
 
-include 'base-domains'
-include 'order-service'
-include 'email-service'
-include 'stock-service'
+include 'base-domains', 'order-service', 'email-service', 'stock-service', 'proto'
